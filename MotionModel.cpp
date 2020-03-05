@@ -29,7 +29,6 @@ std::vector<double> multivariate_normal::rvs(){
     return return_value;
 }
 
-    for(auto &ob: Dist){
 
 
 //一番ありそうなやつ取り合えずこれだけ
